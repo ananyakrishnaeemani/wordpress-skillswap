@@ -1,0 +1,13 @@
+/*
+Theme Name: SkillSwap Theme
+Author: Your Name
+Version: 1.0
+*/
+.skill-post {
+  border-bottom: 1px solid #ccc;
+  padding: 16px 0;
+}
+.skill-post h2 a {
+  text-decoration: none;
+  color: #0073aa;
+}
